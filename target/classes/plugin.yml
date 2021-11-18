@@ -1,0 +1,4 @@
+name: TheBridge
+main: ro.marius.thebridge.TheBridgePlugin
+version: 1.0
+description: TheBridge plugin made by Marius

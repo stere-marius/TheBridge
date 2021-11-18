@@ -1,0 +1,4 @@
+name: TheBridge
+main: ro.marius.thebridge.TheBridgePlugin
+version: ${project.parent.version}
+description: TheBridge plugin made by Marius

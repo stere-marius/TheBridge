@@ -1,0 +1,6 @@
+ro\marius\thebridge\arena\Arena.class
+ro\marius\thebridge\NMSHologramWrapper.class
+ro\marius\thebridge\team\TheBridgeTeam.class
+ro\marius\thebridge\AbstractCommand.class
+ro\marius\thebridge\ISubCommand.class
+ro\marius\thebridge\TestClass.class

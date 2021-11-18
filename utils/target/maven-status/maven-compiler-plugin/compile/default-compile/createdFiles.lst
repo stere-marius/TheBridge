@@ -1,0 +1,15 @@
+ro\marius\thebridge\utils\XMaterial.class
+ro\marius\thebridge\utils\StringUtils.class
+ro\marius\thebridge\utils\Utils$1.class
+ro\marius\thebridge\utils\InventoryRestore.class
+ro\marius\thebridge\utils\KitUtils.class
+ro\marius\thebridge\utils\Sounds.class
+ro\marius\thebridge\utils\itembuilder\ItemBuilder.class
+ro\marius\thebridge\utils\itembuilder\PotionBuilder.class
+ro\marius\thebridge\utils\ServerVersion.class
+ro\marius\thebridge\utils\XMaterial$1.class
+ro\marius\thebridge\utils\CuboidSelection.class
+ro\marius\thebridge\utils\Utils.class
+ro\marius\thebridge\utils\itembuilder\SkullBuilder.class
+ro\marius\thebridge\utils\XMaterial$MinecraftVersion.class
+ro\marius\thebridge\utils\DefaultFontInfo.class
